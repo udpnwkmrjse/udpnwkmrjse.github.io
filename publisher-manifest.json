@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "f3ba8f3a7357611e090c2ec9",
+  "owner": "udpnwkmrjse",
+  "repo": "udpnwkmrjse.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "fdc783cb4f71e6aca44228c8",
+      "a": "搬瓦工(JustMySocks)",
+      "b": "官网",
+      "entity": "搬瓦工(JustMySocks)",
+      "brand": "搬瓦工(JustMySocks)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d2795c7340e732a836c385d86a7096f09d1c9abb5c2e2e1c8f2b48d652c9d946",
+      "content": {
+        "primary_entity": "搬瓦工(JustMySocks)",
+        "keyword1": "搬瓦工(JustMySocks)",
+        "keyword2": "官网",
+        "content": {
+          "AI_DESCRIPTION": "，搬瓦工(JustMySocks)提供基础版、旗舰版与团队版三级套餐，按流量、设备数和线路等级区分。基础版适合个人轻度使用，旗舰版增加专线加速与流媒体解锁，团队版面向多设备高流量场景。按年付可降低月均成本，用户可结合订阅周期和设备数量选择。",
+          "AI_HERO_SUBTITLE": "按设备与流量挑选合适的套餐",
+          "AI_HERO_INTRO": "搬瓦工(JustMySocks)提供多种加速套餐，覆盖个人到团队的不同设备规模与流量需求。选套餐时先统计常用设备数量，再对照每月流量和线路类型，按年付通常比按月付更划算，适合长期稳定使用的用户。",
+          "AI_VISUAL_TITLE": "选对套餐，用得更顺",
+          "AI_HIGHLIGHT_1": "多档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付降低月均成本",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURES_INTRO": "搬瓦工(JustMySocks)的套餐在流量、设备数和线路等级上拉开差距，用户可对照自身使用习惯逐项比较。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_1": "不同套餐支持的在线设备数量不同，先数清常用设备再决定，避免同时连接时受限。",
+          "AI_FEATURE_TITLE_2": "按流量规模选档次",
+          "AI_FEATURE_TEXT_2": "轻度浏览、日常影音和团队高频使用对应不同流量档次，按实际用量挑选更合适。",
+          "AI_FEATURE_TITLE_3": "订阅周期影响成本",
+          "AI_FEATURE_TEXT_3": "按年付比按月付更省，适合打算长期使用的用户，短期试用则可先按月付。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版和团队版在流量、设备数量与线路等级上各有侧重，结合日常使用规模挑选即可。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_GUIDE_INTRO": "从确定需求到完成订阅配置，可以按三步依次进行，避免选错套餐或设备不适配。",
+          "AI_STEP_TITLE_1": "确定使用需求",
+          "AI_STEP_TEXT_1": "统计常用设备数量和每月大致流量，判断自己属于轻度、日常还是高频使用。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端类型，核对套餐支持的设备数量是否够用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按所选客户端的文档说明导入订阅信息，完成后测试连接是否正常。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同系统的设备对应不同的客户端类型，选择时以设备平台和套餐支持数量为准。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "搬瓦工(JustMySocks)的套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "先看常用设备数量和每月流量。一个人一两台设备轻度使用，基础版足够；有流媒体和游戏加速需求可考虑旗舰版；多人共享或高流量选团队版。",
+          "AI_FAQ_QUESTION_2": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_2": "按年付的月均成本更低，适合确定长期使用的用户。按月付灵活，适合先试用或使用周期不固定的情况，两者在套餐权益上一致。",
+          "AI_FAQ_QUESTION_3": "一个套餐能同时几台设备使用？",
+          "AI_FAQ_ANSWER_3": "各档套餐支持的同时在线设备数量不同，基础版偏少，旗舰版适中，团队版最多。如果经常多设备同时在线，建议按实际设备数选择合适档次。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入到客户端？",
+          "AI_FAQ_ANSWER_4": "根据所用设备的客户端类型，参照对应文档导入订阅信息。不同客户端操作方式略有差异，导入后测试连接是否正常即可。",
+          "AI_FAQ_QUESTION_5": "流量用超了会怎样？",
+          "AI_FAQ_ANSWER_5": "每档套餐有对应月流量额度，重度下载或长时间高清播放会更快消耗流量。日常浏览和影音可按需选择合适的流量档次。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松使用",
+          "AI_CLOSING_TEXT": "对照设备数量与流量需求，挑选适合的搬瓦工(JustMySocks)套餐并完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "85f119dc68079b416a9f0fa92cda6302c8080c02d3dbad5854d0958a1562225f",
+    "sitemap.xml": "3e681503c7222b83c8a59ea66bfb767aaf25dadb8f4b79ed76a11656dd7e9466",
+    "robots.txt": "a38065a33dada9aa498bff057bfdf6facbbf3e297837f0c0ee57e1c7eeeaca19",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "a1c6b64cb4524598b1411103738bbbdf6f0a23d30f1641426bb099a4fe1a4d73"
+}
